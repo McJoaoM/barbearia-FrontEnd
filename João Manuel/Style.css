@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    color: rgb(159, 202, 202);
+    background-color: rgb(73, 160, 131);
+    font-weight: bold;
+    font-style: italic;
+}
+
+.imagemneymar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 200px;
+    border-radius: 22px;
+    border-style: inset;
+    border-width: 20px;
+
+}
