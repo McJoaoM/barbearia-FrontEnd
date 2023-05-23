@@ -16,3 +16,26 @@ h1 {
     border-width: 20px;
 
 }
+
+.titulos {
+
+    background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD…EPTFXI9tt/eNM/i7nvt+I0qVAh38dd/1H/E3zpUqVAH//2Q==);
+    border-radius: 60px;
+    border-style: groove;
+
+}
+
+.texto { 
+    background-color: yellow;
+    border-width: 20px;
+    padding: 30px;
+    text-align:center;
+    margin: 50px;
+}
+.listas {
+
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 150px;
+
+}
