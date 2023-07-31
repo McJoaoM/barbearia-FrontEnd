@@ -1,0 +1,71 @@
+h1 {
+    text-align: center;
+    color: rgb(159, 202, 202);
+    background-color: rgb(73, 160, 131);
+    font-weight: bold;
+    font-style: italic;
+}
+
+h2 {     
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: rgb(0, 99, 0);
+    font-weight:bolder;
+}
+
+.imagemneymar {
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    max-width: 300px;
+    border-radius: 10px;
+    border-style: inset;
+    border-width: 20px;
+
+}
+
+.titulos {
+
+    background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD…EPTFXI9tt/eNM/i7nvt+I0qVAh38dd/1H/E3zpUqVAH//2Q==);
+    border-radius: 80px;
+    border-style: groove;
+}
+
+.texto { 
+    background-color: rgba(7, 206, 0, 0.795);
+    border-width: 20px;
+    padding: 30px;
+    text-align:center;
+    margin: 50px;
+}
+.listas {
+
+    display: center;
+    vertical-align: top;
+    margin-right: 350px;
+    margin-left:350px;
+}
+ul {
+    text-align: center;
+    color: rgb(0, 63, 42);
+    background-color: rgba(0, 129, 65, 0.692);
+    font-weight: bold;
+    font-style: italic;
+    display: center;
+
+
+}
+body {
+    background-color: rgb(0, 184, 61);
+
+}
+.imagemneymar {
+    width: 20%;
+    opacity: 1;
+    transition: 400ms;
+    box-shadow: 10px 10px 10px 0 #09eea2;
+}
+
+.imagemneymar {
+    opacity: 0.3;
+}
